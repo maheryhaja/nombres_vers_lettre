@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423337444 source:/home/mahery/Cproj/nombres_vers_lettre/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
